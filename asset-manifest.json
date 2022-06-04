@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/signUpPractic/static/css/main.ac048ee2.css",
+    "main.js": "/signUpPractic/static/js/main.84a3a551.js",
+    "index.html": "/signUpPractic/index.html",
+    "main.ac048ee2.css.map": "/signUpPractic/static/css/main.ac048ee2.css.map",
+    "main.84a3a551.js.map": "/signUpPractic/static/js/main.84a3a551.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac048ee2.css",
+    "static/js/main.84a3a551.js"
+  ]
+}
